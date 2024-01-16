@@ -14,4 +14,5 @@ O Projeto User é uma aplicação web projetada para automatizar a comunicação
 
 4. **Email de Boas-Vindas:** A API externa processa a requisição e envia um email personalizado de boas-vindas ao cliente cadastrado.
 
-<img width="664" alt="image" src="https://github.com/otaviooasc/ms-user/assets/52991335/80851934-8c31-4744-80b6-f60be79e24e3">
+<img width="672" alt="image" src="https://github.com/otaviooasc/ms-user/assets/52991335/d456ea8e-dbef-4733-9f65-5adf59eae0c5">
+
