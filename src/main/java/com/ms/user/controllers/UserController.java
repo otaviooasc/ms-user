@@ -2,7 +2,6 @@ package com.ms.user.controllers;
 
 import com.ms.user.dto.UserRecordDto;
 import com.ms.user.models.UserModel;
-import com.ms.user.repositories.UserRepository;
 import com.ms.user.services.UserService;
 import jakarta.validation.Valid;
 import org.springframework.beans.BeanUtils;
